@@ -1,4 +1,4 @@
-# animation_series
+# Animated_icons
 
 A new Flutter project.
 
